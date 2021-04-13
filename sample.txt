@@ -1,0 +1,24 @@
+Lukaku	R.M	12345
+Dzeko	E	23456
+Hazard	E.M	34567
+Kane	H.E	45678
+Allsop	R	40286
+Jombati	S.C	31953
+El-Abd	A.M	34832
+Kashket	S.C	78817
+Tyson	N	92074
+Gape	D.E	22973
+Samuel	A	79346
+Kanté	N	68398
+Rooney	W.M	78200
+Salah	M	99255
+Vidal	A.E	77773
+Silva	D.J.J	68296
+Modric	L	65431
+Iniesta	A	79935
+Tadić	D	77470
+De Jong	F	22220
+Ziyech	H	57299
+Neres	D	65437
+De Ligt	M	91183
+Onana	A	55428
